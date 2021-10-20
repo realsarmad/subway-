@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="">
+
+        <p>
+
+            username <input type="text">
+
+
+        </p>
+        <p>
+            password <input type="password">
+        </p>
+        <p>
+
+            comments
+            <textarea name="nauman" id="" cols="20" rows="10"></textarea>
+        </p>
+        <h2> SUBWAY ORDER</h2>
+        <p>
+            <strong> please select Bread: </strong> <br>
+            <input type="radio" name="hs" value="rock" /> wheat <br>
+            <input type="radio" name="hs" value="ksgh" /> plain <br>
+            <input type="radio" name="hs" value="hjsh" /> honey oat <br>
+            <input type="radio" name="hs" value="ksgh" /> parmesian origano <br>
+
+
+
+
+
+        </p>
+        <p>
+            <strong>please select sauces:</strong> <br>
+            <input type="checkbox" name="hs" value="hjsh" /> mayonese <br>
+            <input type="checkbox" name="hs" value="hjsh" /> ketchup <br>
+            <input type="checkbox" name="hs" value="hjsh" /> thousand island <br>
+            <input type="checkbox" name="hs" value="hjsh" /> siracha <br>
+            <input type="checkbox" name="hs" value="hjsh" /> chipotle <br>
+            <input type="checkbox" name="hs" value="hjsh" /> mustard <br>
+            <input type="checkbox" name="hs" value="hjsh" /> <strike>honey mustard</strike> <br>
+            <input type="checkbox" name="hs" value="hjsh" /> olive oil <br>
+        </p>
+        <p>select type of cheese</p>
+        <select name="devices" id="12">
+        <option value="us">mozerella</option>
+        <option value="us">chedder</option>
+        <option value="us">cream</option></select>
+
+        <fieldset>
+            <legend>contact details</legend>
+            <label for="email">Email <input type="text"></label> <br> <br>
+            <label for="email">Address<input type="text"></label> <br> <br>
+            <label for="email">Phone number <input type="text"></label> <br>
+        </fieldset>
+    </form>
+
+    <form action="">
+
+    </form>
+
+</body>
+
+</html> 
